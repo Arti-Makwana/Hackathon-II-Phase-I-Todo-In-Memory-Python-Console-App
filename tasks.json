@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "title": "Check Code Completion",
+        "description": "",
+        "completed": false,
+        "due_date": "2026-01-08"
+    },
+    {
+        "id": 3,
+        "title": "Fix Laptop",
+        "description": "Bring it to the shop",
+        "priority": "Medium",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "title": "Fix Laptop",
+        "description": "Bring it to the shop",
+        "priority": "Medium",
+        "completed": false
+    },
+    {
+        "id": 5,
+        "title": "fix laptop",
+        "description": "Bring it to the shop",
+        "priority": "Search",
+        "completed": false
+    },
+    {
+        "id": 6,
+        "title": "Finish Code",
+        "description": "Work",
+        "priority": "Medium",
+        "category": "Work",
+        "completed": false
+    },
+    {
+        "id": 7,
+        "title": "Buy Groceries",
+        "description": "Get milk and eggs",
+        "priority": "Low",
+        "category": "Home",
+        "completed": false
+    },
+    {
+        "id": 8,
+        "title": "Submit Project",
+        "description": "work",
+        "priority": "Medium",
+        "category": "Work",
+        "due_date": "2026-01-15",
+        "completed": false
+    }
+]
